@@ -1,2 +1,2 @@
 # Series-De-Tiempo
-Curso de Series de Tiempo 2023
+Curso de Series de Tiempo 2026
